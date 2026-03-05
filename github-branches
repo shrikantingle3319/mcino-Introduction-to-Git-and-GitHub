@@ -1,4 +1,5 @@
-forked-repo
-merge_branches
-bug-fix-revert
-github-branches
+* bug-fix-revert
+  bug-fix-typo
+  main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
