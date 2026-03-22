@@ -11,13 +11,13 @@ curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introductio
   "state": "open",
   "title": "Fixed typo in README",
   "user": {
-    "login": "PremGupta06"
+    "login": "shrikantingle3319"
   },
   "head": {
-    "label": "PremGupta06:bug-fix-revert",
+    "label": "shrikantingle3319:bug-fix-revert",
     "ref": "bug-fix-revert",
     "repo": {
-      "full_name": "PremGupta06/mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "shrikantingle3319/mcino-Introduction-to-Git-and-GitHub",
       "fork": true
     }
   }
